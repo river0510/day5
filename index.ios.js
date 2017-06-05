@@ -11,7 +11,7 @@ import {
   Text,
   View
 } from 'react-native';
-import Main from './src/main'
+import Main from './src/copy'
 
 export default class day5 extends Component {
   render() {
